@@ -6,7 +6,7 @@
 [![Redis](https://img.shields.io/badge/redis-4.0.6-red)](https://www.npmjs.com/package/redis)
 [![Mongoose](https://img.shields.io/badge/mongoose-6.3.1-lightgrey)](https://www.npmjs.com/package/mongoose)
 [![BigML](https://img.shields.io/badge/bigml-1.25.2-purple)](https://www.npmjs.com/package/bigml)
-
+[![Docker](https://img.shields.io/badge/docker-latest-blue)](https://www.docker.com/)
 
 </p>
 
