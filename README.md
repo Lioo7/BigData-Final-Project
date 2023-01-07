@@ -1,6 +1,14 @@
-<h1 align="center"> BigData-Final-Project </h1>
-</p>
+# BigData-Final-Project 
+[![Express](https://img.shields.io/badge/express-4.17.3-yellow)](https://www.npmjs.com/package/express)
+[![Node-Rdkafka](https://img.shields.io/badge/node--rdkafka-2.12.0-green)](https://www.npmjs.com/package/node-rdkafka)
+[![Socket.io](https://img.shields.io/badge/socket.io-4.4.1-blue)](https://www.npmjs.com/package/socket.io)
+[![MySQL](https://img.shields.io/badge/mysql-2.18.1-orange)](https://www.npmjs.com/package/mysql)
+[![Redis](https://img.shields.io/badge/redis-4.0.6-red)](https://www.npmjs.com/package/redis)
+[![Mongoose](https://img.shields.io/badge/mongoose-6.3.1-lightgrey)](https://www.npmjs.com/package/mongoose)
+[![BigML](https://img.shields.io/badge/bigml-1.25.2-purple)](https://www.npmjs.com/package/bigml)
 
+
+</p>
 
 <h3> Overview </h3>
 
